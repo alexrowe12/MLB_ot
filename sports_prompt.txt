@@ -93,20 +93,8 @@ Identify which sports currently have LIVE games available.
 
 ## STEP 5: SELECT THE BEST GAME USING THIS PRIORITY SYSTEM
 
-<!-- TESTING MODE: Remove this section when US sports are available -->
-### TESTING MODE ACTIVE
-For testing purposes, select ANY live sport currently available. This includes:
-- Soccer/Football (Premier League, La Liga, Serie A, Bundesliga, Champions League, etc.)
-- Tennis (ATP, WTA tournaments)
-- Hockey (European leagues)
-- Any other live sporting event
+Evaluate available live games in this EXACT priority order. Choose the FIRST matching option:
 
-Pick the most exciting-looking game available. If multiple options exist, prefer popular leagues or close matches.
-
-Skip to STEP 6 once you've identified a live game.
-<!-- END TESTING MODE -->
-
-<!--
 ### PRIORITY 1: BOSTON TEAMS (Always highest priority)
 Check if ANY of these teams are currently playing a LIVE game:
 - MLB: Boston Red Sox
@@ -135,9 +123,16 @@ If no live NBA, select any live NHL game.
 ### PRIORITY 6: ANY LIVE NFL GAME
 If no live NHL, select any live NFL game.
 
-### PRIORITY 7: ANY OTHER LIVE SPORT
-Select any other live sporting event available.
--->
+### PRIORITY 7: ANY OTHER LIVE SPORT (FALLBACK)
+If no American sports are available, select ANY other live sport:
+- Soccer/Football (Premier League, La Liga, Serie A, Bundesliga, Champions League, etc.)
+- Tennis (ATP, WTA tournaments)
+- Hockey (European leagues)
+- MMA/UFC
+- Golf
+- Any other live sporting event
+
+Pick whichever looks most exciting.
 
 ### NO GAMES AVAILABLE
 If no live sports are found, respond: "No live sports currently available." and STOP.
