@@ -1,6 +1,6 @@
 # Sports Auto-Prompter
 
-Automatically prompts Claude Desktop every 15 minutes to find and play the best live sports game on StreamEast.
+Automatically prompts Claude Desktop every 15 minutes to find and play the best live sports game on The TV App.
 
 **Priority:** Boston teams (Red Sox > Celtics > Bruins > Patriots) → Close MLB games → Any MLB → NBA → NHL → NFL
 
